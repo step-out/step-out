@@ -15,25 +15,24 @@
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
 - <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***He/His*** or ***Coder***😉
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Artificial Intelligence...
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning ***Computer Vision*** and ***Large Language Model*** />&nbsp;!
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Artificial Intelligence.
+- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning 📕 ***Computer Vision*** and ***Large Language Model*** &nbsp;!
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
 - <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Computer Vision 😭!
 - <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
 - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
 
-<hr>
+<!-- <hr>
 <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
-<hr>
+<hr> -->
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
 </p>
-
