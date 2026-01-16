@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    This is ME, Step-Out, a 4th year undergraduate from Xiamen University. <br>
+    This is ME, Step-Out, a 1st year PhD student from Peking University. <br>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"  alt=""/> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"  alt=""/>
@@ -31,5 +31,5 @@
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
-  <img src="https://profile-counter.glitch.me/step-out/count.svg"  alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=step-out&color=blueviolet&style=flat-square"  alt=""/>
 </p>
