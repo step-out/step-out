@@ -29,7 +29,6 @@
 <hr>
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://komarev.com/ghpvc/?username=step-out&color=blueviolet&style=flat-square"  alt=""/>
 </p>
